@@ -1,0 +1,7 @@
+require("debianw.plugins-setup")
+require("debianw.core.options")
+require("debianw.core.keymaps")
+require("debianw.core.colorscheme")
+require("debianw.plugins.nvim-tree")
+require("debianw.plugins.lualine")
+require("debianw.plugins.telescope")
